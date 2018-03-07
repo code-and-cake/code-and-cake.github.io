@@ -3,7 +3,7 @@ title: "Monte Carlo Radiantion transfer and adaptive/Cartesian grid codes"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-02-28-lewis-mcrt
-date: 28-01-2018
+date: 28-02-2018
 ---
 
-[This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!](/files/lewis_talk.pdf)
+Talk on how Monte Carlo radiation transfer (MCRT) can be applied to modelling the propagation of photons through various tissues. Talk covers brief basic introduction to MCRT and how various different grids can be used to track various quantities with in the simulation. [Link to slides](/files/lewis_talk.pdf)
