@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Radiantion transfer and adaptive/Cartesian grid codes"
+title: "Monte Carlo Radiation transfer and adaptive/Cartesian grid codes"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-02-28-lewis-mcrt
