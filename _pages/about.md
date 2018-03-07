@@ -12,7 +12,7 @@ redirect_from:
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
 | [Lewis McMillan](https://github.com/lewisfish) | 28/2/18 | [Monte Carlo Radiantion transfer and adaptive/cartesian grid codes](/talks/2018-02-28-lewis-mcrt) |
-| [Bert Vandenbroucke](https://github.com/bwvdnbro)    | 7/3/18     | Workflow Managment Systems  |
+| [Bert Vandenbroucke](https://github.com/bwvdnbro)    | 7/3/18     | [Workflow Managment Systems](/talks/2018-03-07-bert-WMS)  |
 | Nicole Schanche       | 14/3/18    | Machine Learning in Astronomy  |
 | TBC       | 21/3/18    | TBC  |
 | TBC       | 28/3/18    | TBC  |
