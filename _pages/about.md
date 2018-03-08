@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Schedule"
-excerpt: "About"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,3 +20,5 @@ redirect_from:
 | TBC       | 11/3/18    | TBC  |
 | TBC       | 18/3/18    | TBC  |
 | TBC       | 25/4/18    | TBC  |
+
+If anyone wants to give a talk on anything computaional physics, code, software based, or anything related to using computers for physics. Please email us at either lm959 or irmb.
