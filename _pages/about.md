@@ -13,7 +13,7 @@ redirect_from:
 | --------  | ------     | ------------------------------------------------------------      |
 | [Lewis McMillan](https://github.com/lewisfish) | 28/2/18 | [Monte Carlo Radiation transfer and adaptive/Cartesian grid codes](/talks/2018-02-28-lewis-mcrt) |
 | [Bert Vandenbroucke](https://github.com/bwvdnbro)    | 7/3/18     | [Workflow Managment Systems](/talks/2018-03-07-bert-WMS)  |
-| Nicole Schanche       | 14/3/18    | Machine Learning in Astronomy  |
+| Nicole Schanche       | 14/3/18    | [Machine Learning in Astronomy](/talks/2018-10-03-nicole-ML)
 | Roopam Gupta       | 21/3/18    | Machine Learning in Biophotonics  |
 | [Duncan Forgan](https://github.com/dh4gan)       | 28/3/18    | Intro to using version control software (Git)  |
 | TBC       | 4/4/18    | TBC  |
