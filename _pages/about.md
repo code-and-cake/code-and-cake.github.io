@@ -15,7 +15,7 @@ redirect_from:
 | [Bert Vandenbroucke](https://github.com/bwvdnbro)    | 7/3/18     | [Workflow Managment Systems](/talks/2018-03-07-bert-WMS)  |
 | Nicole Schanche       | 14/3/18    | Machine Learning in Astronomy  |
 | Roopam Gupta       | 21/3/18    | Machine Learning in Biophotonics  |
-| TBC       | 28/3/18    | TBC  |
+| [Duncan Forgan](https://github.com/dh4gan)       | 28/3/18    | Intro to using version control software (Git)  |
 | TBC       | 4/4/18    | TBC  |
 | TBC       | 11/3/18    | TBC  |
 | TBC       | 18/3/18    | TBC  |
