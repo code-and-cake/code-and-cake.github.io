@@ -17,7 +17,7 @@ redirect_from:
 | Roopam Gupta          | 21/3/18    | [Machine Learning in Biophotonics](/talks/2018-03-21-roopam-ML) |
 | [Duncan Forgan](https://github.com/dh4gan)       | 28/3/18    | [Intro to using version control software (Git)](/talks/2018-03-28-duncan-git) |
 | Everyone       | 4/4/18     | Open discussion on computing topics, and future talk you would like see |
-| Jonathan Nylk  | 11/3/18    | TBC  |
+| [Jonathan Nylk](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)  | 11/3/18    | TBC  |
 | TBC            | 18/3/18    | TBC  |
 | [Federica Fina](https://www.st-andrews.ac.uk/staff/research/data/) | 25/4/18 | Research Data Management |
 
