@@ -18,7 +18,7 @@ redirect_from:
 | [Duncan Forgan](https://github.com/dh4gan)       | 28/3/18    | [Intro to using version control software (Git)](/talks/2018-03-28-duncan-git) |
 | Everyone       | 4/4/18     | Open discussion on computing topics, and future talk you would like see |
 | [Jonathan Nylk](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)  | 11/3/18    | [Image analysis and open problems in biophotonics](/talks/2018-04-11-jonathan-Img)  |
-| William Lucas  | 18/3/18    | Smoothed-particle hydrodynamics  |
+| William Lucas  | 18/3/18    | [Smoothed-particle hydrodynamics](/talks/2018-04-18-will-SPH)  |
 | [Federica Fina](https://www.st-andrews.ac.uk/staff/research/data/) | 25/4/18 | Research Data Management |
 
 If anyone wants to give a talk on anything computaional physics, code, software based, or anything related to using computers for physics. Please email us at either lm959 or irmb.
