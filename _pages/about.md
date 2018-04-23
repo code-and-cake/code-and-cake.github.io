@@ -20,7 +20,7 @@ redirect_from:
 | [Jonathan Nylk](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)  | 11/3/18    | [Image analysis and open problems in biophotonics](/talks/2018-04-11-jonathan-Img)  |
 | William Lucas  | 18/3/18    | [Smoothed-particle hydrodynamics](/talks/2018-04-18-will-SPH)  |
 | [Federica Fina](https://www.st-andrews.ac.uk/staff/research/data/) | 25/4/18 | Research Data Management |
-| TBC | 2/5/18 | TBC |
+| Fran Bartolić| 2/5/18 | Fitting a model to data using MCMC methods |
 | TBC | 9/5/18 | TBC |
 | [Bert Vandenbroucke](https://github.com/bwvdnbro)  | 16/5/18 | Computers, supercomputers and how to use them |
 
