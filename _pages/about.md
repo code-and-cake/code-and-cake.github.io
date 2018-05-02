@@ -20,9 +20,12 @@ redirect_from:
 | [Jonathan Nylk](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)  | 11/3/18    | [Image analysis and open problems in biophotonics](/talks/2018-04-11-jonathan-Img)  |
 | William Lucas  | 18/3/18    | [Smoothed-particle hydrodynamics](/talks/2018-04-18-will-SPH)  |
 | [Federica Fina](https://www.st-andrews.ac.uk/staff/research/data/) | 25/4/18 | [Research Data Management](/talks/2018-04-25-Federica-DM) |
-| Fran Bartolić| 2/5/18 | Fitting a model to data using MCMC methods |
-| TBC | 9/5/18 | TBC |
+| [Fran Bartolić](https://github.com/fbartolic) | 2/5/18 | Fitting a model to data using MCMC methods |
+| Everyone | 9/5/18 | Trip to Computer science |
 | [Bert Vandenbroucke](https://github.com/bwvdnbro)  | 16/5/18 | Computers, supercomputers and how to use them |
+| TBC  | 23/5/18 | TBC |
+| TBC  | 30/5/18 | TBC |
+| TBC  | 6/6/18  | TBC |
 
 If anyone wants to give a talk on anything computaional physics, code, software based, or anything related to using computers for physics. Please email us at either lm959 or irmb.
 
