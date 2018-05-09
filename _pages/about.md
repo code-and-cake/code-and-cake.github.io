@@ -29,3 +29,7 @@ redirect_from:
 
 If anyone wants to give a talk on anything computaional physics, code, software based, or anything related to using computers for physics. Please email us at either lm959 or irmb.
 
+# Online discussion
+Online discussion forum for asking any questions related to any code, computaional physics, or even cake!
+
+[https://gitter.im/code-and-cake/Lobby?source=orgpage](https://gitter.im/code-and-cake/Lobby?source=orgpage)
