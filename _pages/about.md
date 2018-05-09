@@ -23,8 +23,8 @@ redirect_from:
 | [Fran Bartolić](https://github.com/fbartolic) | 2/5/18 | [Fitting a model to data using MCMC methods](/talks/2018-05-02-fran-mcmc) |
 | Everyone | 9/5/18 | Trip to Computer science |
 | [Bert Vandenbroucke](https://github.com/bwvdnbro)  | 16/5/18 | Computers, supercomputers and how to use them |
-| TBC  | 23/5/18 | TBC |
-| TBC  | 30/5/18 | TBC |
+| [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/) | 23/5/18 | Jupyter notebooks |
+| Isla Barnard | 30/5/18 | TBC |
 | TBC  | 6/6/18  | TBC |
 
 If anyone wants to give a talk on anything computaional physics, code, software based, or anything related to using computers for physics. Please email us at either lm959 or irmb.
