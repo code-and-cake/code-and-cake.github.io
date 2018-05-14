@@ -24,7 +24,7 @@ redirect_from:
 | Everyone | 9/5/18 | Trip to Computer science |
 | [***Bert Vandenbroucke***](https://github.com/bwvdnbro)| ***16/5/18*** | ***Computers, supercomputers and how to use them*** |
 | [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/) | 23/5/18 | Jupyter notebooks |
-| Isla Barnard | 30/5/18 | TBC |
+| [Peter Woitke](http://www-star.st-and.ac.uk/~pw31/) | 30/5/18 | debugging and profiling your code workshop |
 | TBC  | 6/6/18  | TBC |
 
 If anyone wants to give a talk on anything computaional physics, code, software based, or anything related to using computers for physics. Please email us at either lm959 or irmb.
