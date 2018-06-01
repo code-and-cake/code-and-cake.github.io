@@ -23,9 +23,14 @@ redirect_from:
 | [Fran Bartolić](https://github.com/fbartolic) | 2/5/18 | [Fitting a model to data using MCMC methods](/talks/2018-05-02-fran-mcmc) |
 | Everyone | 9/5/18 | Trip to Computer science |
 | [Bert Vandenbroucke](https://github.com/bwvdnbro)| 6/5/18 | [Computers, supercomputers and how to use them](/talks/2018-05-16-bert-CPU) |
-| [***Alexander Konovalov***](https://alex-konovalov.github.io/year-archive/) | ***23/5/18*** | ***Jupyter notebooks*** |
-| [Peter Woitke](http://www-star.st-and.ac.uk/~pw31/) | 30/5/18 | debugging and profiling your code workshop |
-| TBC  | 6/6/18  | TBC |
+| [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/) | 23/5/18 | Jupyter notebooks |
+| [Peter Woitke](http://www-star.st-and.ac.uk/~pw31/) | 30/5/18 | Debugging and profiling your code workshop |
+| ***Cancelled***  | ***6/6/18***  | ***Due to SUPA gathering & exam boards*** |
+| TBC  | 13/6/18  | TBC |
+| TBC  | 20/6/18  | TBC |
+| TBC  | 27/6/18  | TBC |
+| TBC  | 4/7/18  | TBC |
+
 
 If anyone wants to give a talk on anything computaional physics, code, software based, or anything related to using computers for physics. Please email us at either lm959 or irmb.
 
