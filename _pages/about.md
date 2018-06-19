@@ -24,7 +24,7 @@ redirect_from:
 | Everyone | 9/5/18 | Trip to Computer science |
 | [Bert Vandenbroucke](https://github.com/bwvdnbro)| 6/5/18 | [Computers, supercomputers and how to use them](/talks/2018-05-16-bert-CPU) |
 | [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/) | 23/5/18 | Jupyter notebooks |
-| [Peter Woitke](http://www-star.st-and.ac.uk/~pw31/) | 30/5/18 | Debugging and profiling your code workshop |
+| [Peter Woitke](http://www-star.st-and.ac.uk/~pw31/) | 30/5/18 | [Debugging and profiling your code workshop](/talks/2018-05-30-peter-code) |
 | Cancelled  | 6/6/18  | Due to SUPA gathering & exam boards |
 | ***Cancelled***  | ***13/6/18***  | ***Cancelled*** |
 | [James Burch](http://synthopt.wp.st-andrews.ac.uk/people/phd-students/james-burch/)  | 20/6/18  | Intro to [Blender](https://www.blender.org/) rendering software |
