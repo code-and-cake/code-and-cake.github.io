@@ -26,9 +26,9 @@ redirect_from:
 | [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/) | 23/5/18 | Jupyter notebooks |
 | [Peter Woitke](http://www-star.st-and.ac.uk/~pw31/) | 30/5/18 | [Debugging and profiling your code workshop](/talks/2018-05-30-peter-code) |
 | Cancelled  | 6/6/18  | Due to SUPA gathering & exam boards |
-| ***Cancelled***  | ***13/6/18***  | ***Cancelled*** |
+| Cancelled  | 13/6/18  | Cancelled |
 | [James Burch](http://synthopt.wp.st-andrews.ac.uk/people/phd-students/james-burch/)  | 20/6/18  | Intro to [Blender](https://www.blender.org/) rendering software |
-| TBC  | 27/6/18  | TBC |
+| ***Cancelled due to graduation***  | ***27/6/18***  | ***Cancelled due to graduation*** |
 | TBC  | 4/7/18  | TBC |
 
 
