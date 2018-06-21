@@ -17,3 +17,5 @@ Download Blender from the official website  [https://www.blender.org/](https://w
 Useful tutorial series on Youtube  [https://www.youtube.com/user/AndrewPPrice](https://www.youtube.com/user/AndrewPPrice)
 
 Cheat sheet for the useful shortcuts  [https://qubodup.files.wordpress.com/2011/01/kb.png](https://qubodup.files.wordpress.com/2011/01/kb.png)
+
+Blender use in science [https://www.cv.nrao.edu/~bkent/blender/index.html](https://www.cv.nrao.edu/~bkent/blender/index.html)
