@@ -13,7 +13,7 @@ redirect_from:
 | --------  | ------     | ------------------------------------------------------------      |
 | ***Cancelled due to graduation***  | ***27/6/18***  | ***Cancelled due to graduation*** |  
 | TBC  | 4/7/18  | TBC |
-| TBC  | 11/7/18  | TBC |
+|  [Bert Vandenbroucke](https://github.com/bwvdnbro)| 11/7/18  | Introduction to Docker |
 | TBC  | 18/7/18  | TBC |
 
 <br><br>  
