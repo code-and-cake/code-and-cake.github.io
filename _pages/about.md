@@ -11,10 +11,13 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| ***Cancelled due to graduation***  | ***27/6/18***  | ***Cancelled due to graduation*** |  
-| TBC  | 4/7/18  | TBC |
+| ***Cancelled*** | ***4/7/18***  | ***Cancelled*** |
 |  [Bert Vandenbroucke](https://github.com/bwvdnbro)| 11/7/18  | Introduction to Docker |
 | TBC  | 18/7/18  | TBC |
+| TBC  | 25/7/18  | TBC |
+| TBC  | 1/8/18  | TBC |
+| TBC  | 8/8/18  | TBC |
+
 
 <br><br>  
 
@@ -22,6 +25,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
+| Cancelled due to graduation  | 27/6/18  | Cancelled due to graduation |
 | [James Burch](http://synthopt.wp.st-andrews.ac.uk/people/phd-students/james-burch/)  | 20/6/18  | [Introduction to Blender](/talks/2018-06-20-james-blender) |
 | Cancelled  | 13/6/18  | Cancelled |
 | Cancelled  | 6/6/18  | Due to SUPA gathering & exam boards |
