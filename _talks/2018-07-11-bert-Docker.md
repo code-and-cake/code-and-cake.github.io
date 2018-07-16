@@ -26,4 +26,4 @@ The talk will contain a short tutorial; those who want can have a look
 at the installation instructions for Docker on 
 https://docs.docker.com/install/ and follow along.
 
-[Link to slides](/files/bert_talk-3.pdf)
+[Link to slides](/files/bert-talk-3.pdf)
