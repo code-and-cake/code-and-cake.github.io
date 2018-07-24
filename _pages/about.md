@@ -11,8 +11,8 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| ***Cancelled***  | ***18/7/18***  | ***Cancelled*** |
-| TBC  | 25/7/18  | TBC |
+| ***Cancelled***  | ***25/7/18***  | ***Cancelled*** |
+| Isla Barnard  | 25/7/18  | Speed-up techniques: why they are needed and how to use them |
 | TBC  | 1/8/18  | TBC |
 | TBC  | 8/8/18  | TBC |
 
@@ -23,6 +23,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
+| Cancelled  | 18/7/18  | Cancelled |
 |[Bert Vandenbroucke](https://github.com/bwvdnbro) | 11/7/18  | [An introduction to Docker](/talks/2018-07-11-bert-Docker) |
 | Cancelled | 4/7/18  | Cancelled |
 | Cancelled due to graduation  | 27/6/18  | Cancelled due to graduation |
