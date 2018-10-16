@@ -11,10 +11,9 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| ***Cancelled***  | ***25/7/18***  | ***Cancelled*** |
-| Isla Barnard  | 25/7/18  | Speed-up techniques: why they are needed and how to use them |
-| TBC  | 1/8/18  | TBC |
-| TBC  | 8/8/18  | TBC |
+| ***[Anne Marie Weijmans](http://www-star.st-and.ac.uk/~amw23/)***  | ***17/10/18***  | ***The Challenges of a Public Data Release: behind the scenes of the Sloan Digital Sky Survey data releases*** |
+| [Lewis McMillan](https://github.com/lewisfish)  | 24/10/18  | TBC |
+| TBC  | 31/10/18  | TBC |
 
 
 <br><br>  
@@ -23,6 +22,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
+| Isla Barnard  | 25/7/18  | Speed-up techniques: why they are needed and how to use them |
 | Cancelled  | 18/7/18  | Cancelled |
 |[Bert Vandenbroucke](https://github.com/bwvdnbro) | 11/7/18  | [An introduction to Docker](/talks/2018-07-11-bert-Docker) |
 | Cancelled | 4/7/18  | Cancelled |
