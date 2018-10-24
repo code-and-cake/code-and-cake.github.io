@@ -11,7 +11,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| ***[Lewis McMillan](https://github.com/lewisfish)***  | ***24/10/18***  | ***Things every computational physicist should be aware of*** |
+| ***[Lewis McMillan](https://github.com/lewisfish)***  | ***24/10/18***  | ***[Things every computational physicist should be aware of](/talks/2018-10-24-lewis-things)*** |
 | TBC  | 7/11/18  | TBC |
 | TBC  | 14/11/18  | TBC |
 | TBC  | 21/11/18  | TBC |
