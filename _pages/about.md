@@ -11,7 +11,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| ***Isla Barnard***  | ***7/11/18***  | ***Good enough practices in scientific computing*** |
+| Alexander Konovalov | ***14/11/18***  | TBC |
 | TBC  | 14/11/18  | TBC |
 | TBC  | 21/11/18  | TBC |
 
@@ -22,6 +22,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
+| Isla Barnard  | 7/11/18 | Good Enough Practices in Scientific Computing (/talks/2018-11-07-isla-goodenough)|
 | [Lewis McMillan](https://github.com/lewisfish)  | 24/10/18  | [Things every computational physicist should be aware of](/talks/2018-10-24-lewis-things)|
 | [Anne Marie Weijmans](http://www-star.st-and.ac.uk/~amw23/)  | 17/10/18  | The Challenges of a Public Data Release: behind the scenes of the Sloan Digital Sky Survey data releases |
 | Isla Barnard  | 25/7/18  | Speed-up techniques: why they are needed and how to use them |
