@@ -24,7 +24,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| Alexander Konovalov | 14/11/18  | Jupyter notebooks for reproducible research: a tutorial |
+| Alexander Konovalov | 14/11/18  | [Jupyter notebooks for reproducible research: a tutorial](/talks/2018-11-14-alexander-jupyter) |
 | Isla Barnard  | 7/11/18 | [Good enough practices in scientific computing](/talks/2018-11-07-isla-goodenough) |
 | [Lewis McMillan](https://github.com/lewisfish)  | 24/10/18  | [Things every computational physicist should be aware of](/talks/2018-10-24-lewis-things)|
 | [Anne Marie Weijmans](http://www-star.st-and.ac.uk/~amw23/)  | 17/10/18  | The Challenges of a Public Data Release: behind the scenes of the Sloan Digital Sky Survey data releases |
