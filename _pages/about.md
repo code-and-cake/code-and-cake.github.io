@@ -11,9 +11,11 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| Alexander Konovalov | ***14/11/18***  | TBC |
-| TBC  | 14/11/18  | TBC |
-| TBC  | 21/11/18  | TBC |
+| ***Isla Barnard*** | ***20/11/18***  | ***[Good enough practices in scientific computing part 2](/talks/2018-11-07-isla-goodenough)*** |
+| [Bert Vandenbroucke](https://github.com/bwvdnbro)   | 28/11/18  | Object-oriented programming |
+| [Fran Bartolić](https://github.com/fbartolic)  | 5/12/18  | Automatic Differentiation |
+| TBC  | 12/12/18  | TBC |
+| TBC  | 19/12/18  | TBC |
 
 
 <br><br>  
@@ -22,6 +24,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
+| Alexander Konovalov | 14/11/18  | Jupyter notebooks for reproducible research: a tutorial |
 | Isla Barnard  | 7/11/18 | [Good enough practices in scientific computing](/talks/2018-11-07-isla-goodenough) |
 | [Lewis McMillan](https://github.com/lewisfish)  | 24/10/18  | [Things every computational physicist should be aware of](/talks/2018-10-24-lewis-things)|
 | [Anne Marie Weijmans](http://www-star.st-and.ac.uk/~amw23/)  | 17/10/18  | The Challenges of a Public Data Release: behind the scenes of the Sloan Digital Sky Survey data releases |
