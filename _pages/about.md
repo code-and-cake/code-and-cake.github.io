@@ -11,9 +11,7 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
-| ***Isla Barnard*** | ***20/11/18***  | ***[Good enough practices in scientific computing part 2](/talks/2018-11-07-isla-goodenough)*** |
-| [Bert Vandenbroucke](https://github.com/bwvdnbro)   | 28/11/18  | Object-oriented programming |
-| [Fran Bartolić](https://github.com/fbartolic)  | 5/12/18  | Automatic Differentiation |
+| ***[Fran Bartolić](https://github.com/fbartolic)***  | ***5/12/18***  | ***Automatic Differentiation*** |
 | TBC  | 12/12/18  | TBC |
 | TBC  | 19/12/18  | TBC |
 
@@ -24,6 +22,8 @@ redirect_from:
 
 | Speaker   | Date       |               Topic                                               |
 | --------  | ------     | ------------------------------------------------------------      |
+| [Bert Vandenbroucke](https://github.com/bwvdnbro)   | 28/11/18  | [Object-oriented programming](/talks/2018-11-28-bert-OOP) |
+| Isla Barnard | 0/11/18  | [Good enough practices in scientific computing part 2](/talks/2018-11-07-isla-goodenough) |
 | Alexander Konovalov | 14/11/18  | [Jupyter notebooks for reproducible research: a tutorial](/talks/2018-11-14-alexander-jupyter) |
 | Isla Barnard  | 7/11/18 | [Good enough practices in scientific computing](/talks/2018-11-07-isla-goodenough) |
 | [Lewis McMillan](https://github.com/lewisfish)  | 24/10/18  | [Things every computational physicist should be aware of](/talks/2018-10-24-lewis-things)|
