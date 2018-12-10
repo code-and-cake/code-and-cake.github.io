@@ -19,7 +19,7 @@
 
 
 
-<title>Object-oriented programming - Code and Cake</title>
+<title>Automatic differentiation - Code and Cake</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Code and Cake">
-<meta property="og:title" content="Object-oriented programming">
+<meta property="og:title" content="Automatic differentiation">
 
 
-  <link rel="canonical" href="https://code-and-cake.github.io/talks/2018-11-28-bert-OOP">
-  <meta property="og:url" content="https://code-and-cake.github.io/talks/2018-11-28-bert-OOP">
+  <link rel="canonical" href="https://code-and-cake.github.io/talks/2018-12-05-fran-AD">
+  <meta property="og:url" content="https://code-and-cake.github.io/talks/2018-12-05-fran-AD">
 
 
 
-  <meta property="og:description" content="Abstract:Classes and objects are powerful concepts that are supported by most major programming languages. They make it easier to make software modular (another powerful concept in software development), and to rethink algorithms in terms of high-level interacting components rather than low-level variables and operations. Mastering these concepts does however require some effort, and that means that object-oriented programming is not used as often in science as it could be.In this talk, I will give a very basic introduction to the concept of object-oriented programming, using a very simple example. I will focus on what classes and objects are, and why using them can improve the quality of your code. I will conclude my talk by showing object-oriented programming in action in my own code CMacIonize on the code documentation (web page; this page was automatically generated from the source code by a tool called doxygen).">
+  <meta property="og:description" content="Most people are familiar with two common ways of calculating derivatives, symbolic differentiation and numerical approximation (e.g. finite differences). There is also a third method called “automatic differentiation” (AD). It is a way of calculating exact derivatives of computer code by decomposing it to a sequence of simple functions and applying the chain rule. AD is one of the key technologies which enabled the recent rise of deep learning, where it is  known as “backpropagation”. It lies at the heart of hugely popular machine learning libraries such as PyTorch and Google’s Tensorflow. The main benefit of using AD in the context of physics and astronomy is that it enables the use of gradient based optimization methods and advanced sampling methods such as Hamiltonian Monte Carlo with complex high-dimensional models. In this talk Fran will explain how AD works and how you can start writing differentiable code.">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2018-11-28T00:00:00+00:00">
+  <meta property="article:published_time" content="2018-12-05T00:00:00+00:00">
 
 
 
@@ -233,19 +233,19 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Object-oriented programming">
-    <meta itemprop="description" content="Abstract:Classes and objects are powerful concepts that are supported by most major programming languages. They make it easier to make software modular (another powerful concept in software development), and to rethink algorithms in terms of high-level interacting components rather than low-level variables and operations. Mastering these concepts does however require some effort, and that means that object-oriented programming is not used as often in science as it could be.In this talk, I will give a very basic introduction to the concept of object-oriented programming, using a very simple example. I will focus on what classes and objects are, and why using them can improve the quality of your code. I will conclude my talk by showing object-oriented programming in action in my own code CMacIonize on the code documentation (web page; this page was automatically generated from the source code by a tool called doxygen).">
-    <meta itemprop="datePublished" content="November 28, 2018">
+    <meta itemprop="headline" content="Automatic differentiation">
+    <meta itemprop="description" content="Most people are familiar with two common ways of calculating derivatives, symbolic differentiation and numerical approximation (e.g. finite differences). There is also a third method called “automatic differentiation” (AD). It is a way of calculating exact derivatives of computer code by decomposing it to a sequence of simple functions and applying the chain rule. AD is one of the key technologies which enabled the recent rise of deep learning, where it is  known as “backpropagation”. It lies at the heart of hugely popular machine learning libraries such as PyTorch and Google’s Tensorflow. The main benefit of using AD in the context of physics and astronomy is that it enables the use of gradient based optimization methods and advanced sampling methods such as Hamiltonian Monte Carlo with complex high-dimensional models. In this talk Fran will explain how AD works and how you can start writing differentiable code.">
+    <meta itemprop="datePublished" content="December 05, 2018">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Object-oriented programming
+          <h1 class="page__title" itemprop="headline">Automatic differentiation
 </h1>
           
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="2018-11-28T00:00:00+00:00">November 28, 2018</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="2018-12-05T00:00:00+00:00">December 05, 2018</time></p>
         
         
 
@@ -253,11 +253,9 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>Abstract:
-Classes and objects are powerful concepts that are supported by most major programming languages. They make it easier to make software modular (another powerful concept in software development), and to rethink algorithms in terms of high-level interacting components rather than low-level variables and operations. Mastering these concepts does however require some effort, and that means that object-oriented programming is not used as often in science as it could be.
-In this talk, I will give a very basic introduction to the concept of object-oriented programming, using a very simple example. I will focus on what classes and objects are, and why using them can improve the quality of your code. I will conclude my talk by showing object-oriented programming in action in my own code <a href="https://github.com/bwvdnbro/CMacIonize">CMacIonize</a> on the code documentation (<a href="http://www-star.st-and.ac.uk/~bv7/CMacIonize_documentation/">web page</a>; this page was automatically generated from the source code by a tool called <a href="www.doxygen.org">doxygen</a>).</p>
+        <p>Most people are familiar with two common ways of calculating derivatives, symbolic differentiation and numerical approximation (e.g. finite differences). There is also a third method called “automatic differentiation” (AD). It is a way of calculating exact derivatives of computer code by decomposing it to a sequence of simple functions and applying the chain rule. AD is one of the key technologies which enabled the recent rise of deep learning, where it is  known as “backpropagation”. It lies at the heart of hugely popular machine learning libraries such as PyTorch and Google’s Tensorflow. The main benefit of using AD in the context of physics and astronomy is that it enables the use of gradient based optimization methods and advanced sampling methods such as Hamiltonian Monte Carlo with complex high-dimensional models. In this talk Fran will explain how AD works and how you can start writing differentiable code.</p>
 
-<p><a href="/files/bert-talk-4.pdf">Link to slides</a></p>
+<p><a href="/files/fran-talk-02.pdf">Link to slides</a></p>
 
         
       </section>
@@ -278,13 +276,13 @@ In this talk, I will give a very basic introduction to the concept of object-ori
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://code-and-cake.github.io/talks/2018-11-28-bert-OOP" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://code-and-cake.github.io/talks/2018-12-05-fran-AD" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://code-and-cake.github.io/talks/2018-11-28-bert-OOP" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://code-and-cake.github.io/talks/2018-12-05-fran-AD" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=https://code-and-cake.github.io/talks/2018-11-28-bert-OOP" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=https://code-and-cake.github.io/talks/2018-12-05-fran-AD" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://code-and-cake.github.io/talks/2018-11-28-bert-OOP" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://code-and-cake.github.io/talks/2018-12-05-fran-AD" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -292,12 +290,11 @@ In this talk, I will give a very basic introduction to the concept of object-ori
 
   <nav class="pagination">
     
-      <a href="https://code-and-cake.github.io/talks/2018-11-14-alexander-jupyter" class="pagination--pager" title="Ten Simple Rules for Reproducible Research in Jupyter Notebooks
+      <a href="https://code-and-cake.github.io/talks/2018-11-28-bert-OOP" class="pagination--pager" title="Object-oriented programming
 ">Previous</a>
     
     
-      <a href="https://code-and-cake.github.io/talks/2018-12-05-fran-AD" class="pagination--pager" title="Automatic differentiation
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
